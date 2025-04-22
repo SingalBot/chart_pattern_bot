@@ -3,5 +3,4 @@ yfinance
 talib-binary
 requests
 streamlit
--r requirements.txt
 ./setup.sh
