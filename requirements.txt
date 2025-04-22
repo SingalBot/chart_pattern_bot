@@ -1,5 +1,5 @@
 pandas
 yfinance
-TA-Lib
+talib-binary
 requests
 streamlit
